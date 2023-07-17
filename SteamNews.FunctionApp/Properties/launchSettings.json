@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SteamNews.FunctionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7287",
+      "launchBrowser": false
+    }
+  }
+}
