@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamNews.FunctionApp", "SteamNews.FunctionApp\SteamNews.FunctionApp.csproj", "{8133BEBA-2C7D-4A08-A3FC-F5E90624C85E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamDatabase", "..\SteamDatabase\SteamDatabase.csproj", "{08ABB595-C220-4B44-811A-A48CA07E5935}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{8133BEBA-2C7D-4A08-A3FC-F5E90624C85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8133BEBA-2C7D-4A08-A3FC-F5E90624C85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8133BEBA-2C7D-4A08-A3FC-F5E90624C85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08ABB595-C220-4B44-811A-A48CA07E5935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08ABB595-C220-4B44-811A-A48CA07E5935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08ABB595-C220-4B44-811A-A48CA07E5935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08ABB595-C220-4B44-811A-A48CA07E5935}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

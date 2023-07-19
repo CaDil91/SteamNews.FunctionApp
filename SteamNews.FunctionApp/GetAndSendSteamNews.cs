@@ -1,5 +1,6 @@
 using Microsoft.Azure.WebJobs;
 using Microsoft.EntityFrameworkCore;
+using SteamDatabase;
 
 namespace SteamNews.FunctionApp;
 
